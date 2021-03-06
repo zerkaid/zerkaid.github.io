@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try hack me room | Heartbleed
+title: Try hack me room Heartbleed
 ---
   
 This room I started with skimming the documentation for the exploit. I ran an nmap scan and booted up metasploit and ran the exploit which gave me a bunch of data.  
