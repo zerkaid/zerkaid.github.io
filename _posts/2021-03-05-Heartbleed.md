@@ -10,3 +10,5 @@ This room I started with skimming the documentation for the exploit. I ran an nm
 As you can see this expert contains the flag.  
   
 ``` THM{sSl-Is-BaD}```  
+
+Overall this challenge left me feeling like I'm missing a piece of information. I got the flag but I just kinda ran the exploit with nothing special too it.  
