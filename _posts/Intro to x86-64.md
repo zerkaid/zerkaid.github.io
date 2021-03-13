@@ -1,3 +1,8 @@
+---
+layout: post
+title: Intro to x86-x64
+---
+
 # Intro to x86-64
 
 Room start: 
