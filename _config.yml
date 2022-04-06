@@ -4,10 +4,10 @@ description: "Writeup's for CTF's and Labs." # This will show up in places like 
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+#email: "example@mail.com"
 twitter_username: "Zerkaid"
 github_username: "Zerkaid"
-linkedin_username: "linkedinuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
